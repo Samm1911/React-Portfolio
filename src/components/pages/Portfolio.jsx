@@ -8,7 +8,6 @@ function Portfolio() {
     <div className="portfolio pages">
       <h2>Portfolio</h2>
       <div className="d-flex flex-wrap">
-
         {/* Film */}
         <Project
           className="Film single-project"
