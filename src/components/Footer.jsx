@@ -12,7 +12,7 @@ import { faEnvelope } from "@fortawesome/free-regular-svg-icons";
 function Footer() {
   return (
     <footer className="footer fixed-bottom text-center">
-      {/* icon links for github, linkedin, instagram and twitter */}
+      {/* icon links for github, linkedin and instagram */}
       <a
         className="icon-links"
         href="https://github.com/Samm1911"

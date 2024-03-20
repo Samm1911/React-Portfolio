@@ -8,6 +8,7 @@
 /* header.jsx */
 header {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+  text-align: center;
 }
 
 /* App.jsx */
@@ -15,6 +16,7 @@ body {
   color: var(--gold);
   background-image: url(../img/black-gold.jpg);
   background-size: cover;
+  text-align: center;
 }
 
 .pages {
@@ -32,7 +34,7 @@ body {
 }
 
 /* AboutMe.jsx */
-.about-me {
+.about-Me {
   text-align: center;
 }
 
