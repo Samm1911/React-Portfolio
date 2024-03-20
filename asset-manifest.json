@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.080a9227.css",
+    "main.js": "/React-Portfolio/static/js/main.b0aa774b.js",
+    "static/media/coding-min.jpg": "/React-Portfolio/static/media/coding-min.20ce411e96f5279a1cfc.jpg",
+    "static/media/question-min.jpg": "/React-Portfolio/static/media/question-min.600ecba808c7fef9da98.jpg",
+    "static/media/lightning-min.jpg": "/React-Portfolio/static/media/lightning-min.4b1fb095328bb3841206.jpg",
+    "static/media/Samia Gostanian - Web Development.pdf": "/React-Portfolio/static/media/Samia Gostanian - Web Development.16f4d2cbed1b5a42849d.pdf",
+    "static/media/Sam 2.JPG": "/React-Portfolio/static/media/Sam 2.bfc1869cf3460e520f97.JPG",
+    "static/media/workoutn.jpg": "/React-Portfolio/static/media/workoutn.19d276d183d1bdc611d0.jpg",
+    "static/media/Film.jpg": "/React-Portfolio/static/media/Film.e3230769b69420e0da1c.jpg",
+    "static/media/black-gold.jpg": "/React-Portfolio/static/media/black-gold.40a7f26fb1cf84b0ab1e.jpg",
+    "static/media/Sam.JPG": "/React-Portfolio/static/media/Sam.51b139ddef570c4704d7.JPG",
+    "index.html": "/React-Portfolio/index.html",
+    "main.080a9227.css.map": "/React-Portfolio/static/css/main.080a9227.css.map",
+    "main.b0aa774b.js.map": "/React-Portfolio/static/js/main.b0aa774b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.080a9227.css",
+    "static/js/main.b0aa774b.js"
+  ]
+}
