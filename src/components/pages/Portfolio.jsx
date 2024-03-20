@@ -66,9 +66,8 @@ function Portfolio() {
         <Project
           className="Photography single-project"
           link="https://samm1911.github.io/Sam-Gostanian-Photography/"
-          title="Weather dashboard"
+          title="Personal Photography Website"
           githublink="https://github.com/Samm1911/Sam-Gostanian-Photography"
-          description="Photography Website"
         />
       </div>
     </div>
