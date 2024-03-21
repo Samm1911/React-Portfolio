@@ -22,23 +22,23 @@ To install my portfolio, simply open the app and click the icon in the browser s
 First, you will be directed to the "About Me" section, which portrays a picture of myself and a short bio about me.
 Under my username, you will find the navbar, which will render the different sections of my portfolio.
 
-![navbar](/Users/samgostanian/Sams-coding-projects/20 - React/New/React-Portfolio/src/img/1.png)
+![navbar](https://github.com/Samm1911/React-Portfolio/blob/main/src/img/1.png?raw=true)
 
 At the bottom, you will find clickable icons, which lead to my Github, LinkedIn, Instagram, and Twitter.
-![icon-links](/Users/samgostanian/Sams-coding-projects/20 - React/New/React-Portfolio/src/img/2.png)
+![icon-links](https://github.com/Samm1911/React-Portfolio/blob/main/src/img/2.png?raw=true)
 
 Once you click on the Portfolio title in the navbar, you will be directed to the page, that showcases 6 of my projects.
 If you hover over one of those projects, you will be able to see the title, which will lead you to the deployed application, once clicked.
 Additionally, you will see a GitHub icon, which will lead you to the GitHub repo of the corresponding project.
 Under those two, you will find a description, that describes what kind of app is presented here.
-![single-project](/Users/samgostanian/Sams-coding-projects/20 - React/New/React-Portfolio/src/img/3.png)
+![single-project](https://github.com/Samm1911/React-Portfolio/blob/main/src/img/3.png?raw=true)
 
 Once you get to the contact section, you will find a form, where you can enter your contact information.
 If you move the cursor out of the form fields and click, you will see a notification, of which fields are missing.
-![message-required](/Users/samgostanian/Sams-coding-projects/20 - React/New/React-Portfolio/src/img/4.png)
+![message-required](https://github.com/Samm1911/React-Portfolio/blob/main/src/img/4.png?raw=true)
 
 Also, if the typed-in email is incorrect, another error message will be displayed.
-![invalid-email](/Users/samgostanian/Sams-coding-projects/20 - React/New/React-Portfolio/src/img/5.png)
+![invalid-email](https://github.com/Samm1911/React-Portfolio/blob/main/src/img/5.png?raw=true)
 
 On the last page is my resume, which is downloadable, once the link is clicked.
 Under the downloadable are my front-end, back-end, and full stack proficiencies listed.
